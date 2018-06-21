@@ -10,3 +10,5 @@ Province and University Information in Turkey
 
 All the universities, university information and in which city they are in Turkey are prepared in JSON Format. All of the information are taken from the Council of Higher Education.The phone, fax numbers and the web sites, e-mail, addresses and rector information of the universities can be found.
 
+# Demo
+[Demo](https://anilozmen.github.io/tr-uni-json/)
